@@ -1,0 +1,29 @@
+
+Library 1.03 -- fix for missing 100Hz service routine call
+                see md_periodic_int demo in md_demos folder
+
+Library 1.05 -- now includes version for AGM panel (libdonkeyAGM128_XXX)  MouseCom1
+                md_init_no_logo()  skips donkey logo -- speeds up reset
+                Mega128 Timer1 Input Capture init was not correct, fixed (timer.h) 
+
+		Note: using donkey ball or mouse on alternate port requires recompile of
+		library
+
+Library 1.06 -  Includes md_InhibitPortPullup which can be set to mask port pullups performed by 
+                hw_init called by md_init() or md_init_no_logo().  Bitfields allow skipping of
+                see: md.h
+
+
+Library 1.09 -  Feb 2013
+                Mega Donkey Terminal (mdt) designed to link Donkey to PC Emulator sending drawing
+                commands and receiving button press information was sending characters to serial port
+                when MDT not enabled.
+
+                see: md_term.c
+
+                Mark's Scrollbox menu feature added.
+                see: menu.c
+   
+                Not tested ,  Extracted his code from his menu.c / .h ?
+
+   

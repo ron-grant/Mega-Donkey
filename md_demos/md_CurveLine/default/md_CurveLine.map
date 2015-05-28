@@ -1,0 +1,1850 @@
+Archive member included because of file (symbol)
+
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(exit.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6/crtm2561.o (exit)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fixsfsi.o)
+                              main.o (__fixsfsi)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fixunssfsi.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fixsfsi.o) (__fixunssfsi)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(floatsisf.o)
+                              main.o (__floatsisf)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fp_split3.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fixunssfsi.o) (__fp_splitA)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fp_zero.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fixunssfsi.o) (__fp_zero)
+C:\MD\md_lib\libdonkey2561_108.a(adc.o)
+                              main.o (get_touch)
+C:\MD\md_lib\libdonkey2561_108.a(curves.o)
+                              main.o (bezier_init)
+C:\MD\md_lib\libdonkey2561_108.a(graph.o)
+                              main.o (viewport_init)
+C:\MD\md_lib\libdonkey2561_108.a(lcd.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(graph.o) (page_buffers)
+C:\MD\md_lib\libdonkey2561_108.a(md.o)
+                              main.o (md_init)
+C:\MD\md_lib\libdonkey2561_108.a(md_term.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(lcd.o) (mdt_scroll)
+C:\MD\md_lib\libdonkey2561_108.a(menu.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(graph.o) (menu_init)
+C:\MD\md_lib\libdonkey2561_108.a(timer.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(md.o) (timer0_init)
+C:\MD\md_lib\libdonkey2561_108.a(uart.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(md_term.o) (uart1_send)
+C:\MD\md_lib\libdonkey2561_108.a(vchar.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(graph.o) (vchar_init)
+C:\MD\md_lib\libdonkey2561_108.a(calc.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(menu.o) (menu_calc)
+C:\MD\md_lib\libdonkey2561_108.a(kbd.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(menu.o) (menu_kbd)
+C:\MD\md_lib\libdonkey2561_108.a(led.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(md.o) (led_set)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(addsf3.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(curves.o) (__subsf3)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(addsf3.o) (__addsf3x)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(cos.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(curves.o) (cos)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(divsf3.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(curves.o) (__divsf3)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(divsf3x.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(divsf3.o) (__divsf3x)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_cmp.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(curves.o) (__eqsf2)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_inf.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_inf)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_nan.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_nan)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_pscA)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_pscB)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_rempio2.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(cos.o) (__fp_rempio2)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_round.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(addsf3.o) (__fp_round)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_sinus.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(cos.o) (__fp_sinus)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(mulsf3.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(curves.o) (__mulsf3)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(mulsf3.o) (__mulsf3x)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(sin.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(curves.o) (sin)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_mpack.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_rempio2.o) (__fp_mpack)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_powsodd.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_sinus.o) (__fp_powsodd)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_powser.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_powsodd.o) (__fp_powser)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_mulsi3.o)
+                              main.o (__mulsi3)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_udivmodhi4.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(adc.o) (__udivmodhi4)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_divmodhi4.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(adc.o) (__divmodhi4)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_udivmodsi4.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(uart.o) (__udivmodsi4)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_divmodsi4.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(adc.o) (__divmodsi4)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_exit.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(exit.o) (_exit)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_clear_bss.o)
+                              main.o (__do_clear_bss)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(tolower.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(kbd.o) (tolower)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(toupper.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(uart.o) (toupper)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(strncpy_P.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(lcd.o) (strncpy_P)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(strcat.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(calc.o) (strcat)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(strcpy.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(menu.o) (strcpy)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(strncpy.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(calc.o) (strncpy)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(iob.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(lcd.o) (__iob)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(printf.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(adc.o) (printf)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(putchar.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(md.o) (putchar)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(puts.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(md.o) (puts)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(sprintf.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(md.o) (sprintf)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(sscanf.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(timer.o) (sscanf)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(vfprintf_std.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(printf.o) (vfprintf)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(vfscanf_std.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(sscanf.o) (vfscanf)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_rb.1F2021.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(lcd.o) (__eeprom_read_byte_1F2021)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_rblk.1F2021.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(lcd.o) (__eeprom_read_block_1F2021)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_rw.1F2021.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(adc.o) (__eeprom_read_word_1F2021)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_wb.1F2021.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(lcd.o) (__eeprom_write_byte_1F2021)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_ww.1F2021.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(lcd.o) (__eeprom_write_word_1F2021)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_wblk.1F2021.o)
+                              C:\MD\md_lib\libdonkey2561_108.a(adc.o) (__eeprom_write_block_1F2021)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(isspace.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(vfscanf_std.o) (isspace)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(strnlen_P.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(vfprintf_std.o) (strnlen_P)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(strnlen.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(vfprintf_std.o) (strnlen)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fgetc.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(vfscanf_std.o) (fgetc)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fputc.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(putchar.o) (fputc)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ungetc.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(vfscanf_std.o) (ungetc)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ultoa_invert.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(vfprintf_std.o) (__ultoa_invert)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(cty_isfalse.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(isspace.o) (__ctype_isfalse)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_prologue.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(printf.o) (__prologue_saves__)
+c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_epilogue.o)
+                              c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(printf.o) (__epilogue_restores__)
+
+Allocating common symbols
+Common symbol       size              file
+
+LED_PWM_Chain       0x2               C:\MD\md_lib\libdonkey2561_108.a(led.o)
+mdt_screen_byte     0x1               C:\MD\md_lib\libdonkey2561_108.a(md_term.o)
+bg_color            0x1               main.o
+mapNorthUp          0x1               main.o
+remote_bgcolor      0x1               C:\MD\md_lib\libdonkey2561_108.a(md_term.o)
+mapFullScreen       0x1               main.o
+mdtPort             0x1               C:\MD\md_lib\libdonkey2561_108.a(md_term.o)
+com1_rx_paused      0x1               main.o
+mdtHooked           0x1               main.o
+ButtonBorder        0x1               main.o
+Rx0Front            0x1               main.o
+joy_mode            0x1               main.o
+Tx1Front            0x1               main.o
+ps_buf              0x51              main.o
+VCharScaleX         0x1               C:\MD\md_lib\libdonkey2561_108.a(vchar.o)
+Tx0Count            0x1               main.o
+PWMCount            0x1               C:\MD\md_lib\libdonkey2561_108.a(led.o)
+com0_protocol       0x1               main.o
+ADCIndex            0x1               main.o
+Tx1Buf              0x78              main.o
+mdtMouseY           0x2               main.o
+mapHeading          0x2               main.o
+LEDPWM              0x5               C:\MD\md_lib\libdonkey2561_108.a(led.o)
+rotate              0x1               main.o
+cursor_y            0x2               main.o
+service_100Hz       0x2               main.o
+mapLastUpdate       0x4               C:\MD\md_lib\libdonkey2561_108.a(graph.o)
+com1_protocol       0x1               main.o
+HexMode             0x1               main.o
+Y2                  0x4               main.o
+MenuDraw            0x1               main.o
+vchar_slant         0x8               C:\MD\md_lib\libdonkey2561_108.a(vchar.o)
+ParArcRadius        0x4               main.o
+MenuBeep            0x1               main.o
+X2                  0x4               main.o
+com0_rx_paused      0x1               main.o
+com0_tx_paused      0x1               main.o
+div_100Hz           0x1               C:\MD\md_lib\libdonkey2561_108.a(timer.o)
+Com0Error           0x1               main.o
+MouseX              0x2               main.o
+force0_char         0x1               C:\MD\md_lib\libdonkey2561_108.a(uart.o)
+remote_color        0x1               C:\MD\md_lib\libdonkey2561_108.a(md_term.o)
+du                  0x4               main.o
+mapLocY             0x4               main.o
+mapShowInfo         0x1               main.o
+ButtonRowSpacing    0x1               main.o
+printf_flags        0x2               main.o
+waypoints           0x28              main.o
+ButtonColSpacing    0x1               main.o
+vePort              0x1               main.o
+Tx1Count            0x1               main.o
+div_1KHz            0x2               C:\MD\md_lib\libdonkey2561_108.a(timer.o)
+VCharHeight         0x2               C:\MD\md_lib\libdonkey2561_108.a(vchar.o)
+X4                  0x4               main.o
+com1_tx_paused      0x1               main.o
+top_line            0x2               main.o
+Servo3Pos           0x10              main.o
+vchar_inited        0x1               C:\MD\md_lib\libdonkey2561_108.a(vchar.o)
+cursor_on           0x2               main.o
+lcd_col             0x1               main.o
+LED_PWM_State       0x1               main.o
+div_1Hz             0x1               C:\MD\md_lib\libdonkey2561_108.a(timer.o)
+Rx1Count            0x1               main.o
+GraphOrgX           0x1               main.o
+ADCModeChannels     0x1               main.o
+char_size           0x1               main.o
+mapPageFlip         0x1               main.o
+service_10KHz       0x2               main.o
+dx                  0x4               C:\MD\md_lib\libdonkey2561_108.a(curves.o)
+Com1Error           0x1               main.o
+Tx0Back             0x1               main.o
+touchX              0x2               main.o
+Tx0Buf              0x78              main.o
+X1                  0x4               main.o
+keyboard_drawn      0x1               main.o
+touchY              0x2               main.o
+md_InhibitPortPullUp
+                    0x1               main.o
+VCharWidth          0x2               C:\MD\md_lib\libdonkey2561_108.a(vchar.o)
+mdtMouseState       0x1               main.o
+mdtNoLocalDisplay   0x1               main.o
+GraphOrgY           0x1               main.o
+Y4                  0x4               main.o
+VCharSpaceY         0x1               main.o
+X3                  0x4               main.o
+beep_freq           0x2               C:\MD\md_lib\libdonkey2561_108.a(timer.o)
+MenuCmd             0x1               main.o
+Servo1Pos           0x10              main.o
+time                0xa               main.o
+dy                  0x4               C:\MD\md_lib\libdonkey2561_108.a(curves.o)
+pVP                 0x2               main.o
+beep_freqcnt        0x2               C:\MD\md_lib\libdonkey2561_108.a(timer.o)
+lcd_row             0x1               main.o
+color               0x1               main.o
+Tx1BusyFirst        0x1               main.o
+text_mode           0x1               main.o
+ADCData             0x10              main.o
+VCharSpaceX         0x1               main.o
+mdtMouseX           0x2               main.o
+ParArcEndAngle      0x4               main.o
+Rx0Back             0x1               main.o
+Rx1Back             0x1               main.o
+Tx0Front            0x1               main.o
+Rx0Count            0x1               main.o
+VCharScaleY         0x1               C:\MD\md_lib\libdonkey2561_108.a(vchar.o)
+TimeAliveSecs       0x4               C:\MD\md_lib\libdonkey2561_108.a(timer.o)
+Rx1Front            0x1               main.o
+FrameBytes          0x2               main.o
+VP                  0x1a              main.o
+Tx0BusyFirst        0x1               main.o
+blit_buf            0x16              main.o
+mapInfoDisplay      0x1               main.o
+cursor_x            0x2               main.o
+VCharThicknessY     0x1               main.o
+Pressed             0x20              C:\MD\md_lib\libdonkey2561_108.a(menu.o)
+CurX                0x4               main.o
+mapZoom             0x1               main.o
+mdt_read_ready      0x1               C:\MD\md_lib\libdonkey2561_108.a(md_term.o)
+ParArcStartAngle    0x4               main.o
+Rx0Buf              0x78              main.o
+mapLocX             0x4               main.o
+Y1                  0x4               main.o
+DrawPage            0x1               main.o
+TimeAliveMsecs      0x4               C:\MD\md_lib\libdonkey2561_108.a(timer.o)
+Tx1Back             0x1               main.o
+TWIErrors           0x1               main.o
+calc_scale          0x4               main.o
+beep_disabled       0x1               main.o
+Rx1Buf              0x78              main.o
+CurY                0x4               main.o
+duParamMode         0x1               main.o
+draw_flags          0x1               main.o
+LEDInten            0x5               main.o
+__iob               0x6               c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(iob.o)
+mdtMouseEnabled     0x1               main.o
+u                   0x4               main.o
+beep_dur            0x2               C:\MD\md_lib\libdonkey2561_108.a(timer.o)
+MouseY              0x2               main.o
+next_touch          0x1               main.o
+VCharTable          0x2               C:\MD\md_lib\libdonkey2561_108.a(vchar.o)
+DrawCmdActive       0x1               main.o
+double_buffers      0x1               main.o
+VCharThicknessX     0x1               main.o
+last_rand           0x2               main.o
+Y3                  0x4               main.o
+time_not_set        0x1               C:\MD\md_lib\libdonkey2561_108.a(md.o)
+force1_char         0x1               C:\MD\md_lib\libdonkey2561_108.a(uart.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00100000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800200
+LOAD c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6/crtm2561.o
+LOAD main.o
+LOAD c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a
+LOAD C:\MD\md_lib\libdonkey2561_108.a
+LOAD c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a
+LOAD c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a
+LOAD c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a
+LOAD c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0xfd58
+ *(.vectors)
+ .vectors       0x00000000       0xcc c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6/crtm2561.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_fplib
+                0x000000cc       0x1e c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_sinus.o)
+ *(.progmem*)
+ .progmem.data  0x000000ea      0x346 main.o
+                0x000000ea                AI_Table
+ .progmem.data  0x00000430       0xa0 C:\MD\md_lib\libdonkey2561_108.a(adc.o)
+ .progmem.data  0x000004d0      0x1a0 C:\MD\md_lib\libdonkey2561_108.a(curves.o)
+                0x000004d0                DonkeyLogo
+ .progmem.data  0x00000670      0x291 C:\MD\md_lib\libdonkey2561_108.a(graph.o)
+                0x00000670                SinT360
+                0x000007d8                SinT256
+ .progmem.data  0x00000901      0x900 C:\MD\md_lib\libdonkey2561_108.a(lcd.o)
+                0x00000901                rvs_table
+                0x00000a01                cgen
+ .progmem.data  0x00001201       0xf2 C:\MD\md_lib\libdonkey2561_108.a(md.o)
+ .progmem.data  0x000012f3        0xc C:\MD\md_lib\libdonkey2561_108.a(menu.o)
+ .progmem.data  0x000012ff       0x95 C:\MD\md_lib\libdonkey2561_108.a(timer.o)
+                0x000012ff                month_len
+ .progmem.data  0x00001394       0x88 C:\MD\md_lib\libdonkey2561_108.a(uart.o)
+ .progmem.data  0x0000141c      0xca2 C:\MD\md_lib\libdonkey2561_108.a(vchar.o)
+                0x00001a13                vg_86
+                0x00001dfc                vg_EA
+                0x00001a9c                vg_92
+                0x00001869                vg_55
+                0x00001dad                vg_E2
+                0x00001ba1                vg_AA
+                0x00001dcf                vg_E6
+                0x00001bd0                vg_AE
+                0x000015eb                vg_11
+                0x0000183f                vg_51
+                0x00001658                vg_18
+                0x00001c83                vg_C2
+                0x0000181b                vg_4C
+                0x00001b53                vg_A2
+                0x00001c6d                vg_BD
+                0x000016a7                vg_20
+                0x00001e5a                vg_F3
+                0x00001997                vg_7B
+                0x000017a3                vg_3E
+                0x000017d3                vg_43
+                0x00001524                vg_08
+                0x00001b7e                vg_A6
+                0x00001e6e                vg_F6
+                0x00001c73                vg_BE
+                0x000018a8                vg_60
+                0x000016a8                vg_21
+                0x00001aed                vg_99
+                0x0000166e                vg_1C
+                0x00001968                vg_75
+                0x00001771                vg_38
+                0x00001e0c                vg_EB
+                0x00001aa6                vg_93
+                0x00001870                vg_56
+                0x00001af7                vg_9A
+                0x00001a59                vg_8B
+                0x0000189e                vg_5D
+                0x0000194f                vg_72
+                0x00001751                vg_35
+                0x000015a9                vg_0E
+                0x00001cde                vg_D0
+                0x0000167b                vg_1E
+                0x0000188f                vg_5A
+                0x00001b15                vg_9D
+                0x00001c04                vg_B2
+                0x00001e74                vg_F7
+                0x00001e94                vg_FC
+                0x000018eb                vg_67
+                0x000016fe                vg_28
+                0x00001dc5                vg_E5
+                0x00001bbb                vg_AD
+                0x000015d2                vg_10
+                0x00001be0                vg_B0
+                0x00001b23                vg_9E
+                0x00001c65                vg_BC
+                0x0000181e                vg_4D
+                0x00001ebe                vgen
+                0x00001b69                vg_A4
+                0x00001976                vg_77
+                0x00001cbd                vg_CC
+                0x00001c9d                vg_C8
+                0x00001958                vg_73
+                0x0000175c                vg_36
+                0x00001cea                vg_D2
+                0x00001ce4                vg_D1
+                0x00001c7c                vg_C0
+                0x00001463                vg_03
+                0x00001e1a                vg_EC
+                0x00001ab4                vg_94
+                0x00001876                vg_57
+                0x00001de0                vg_E8
+                0x0000160c                vg_13
+                0x00001e67                vg_F5
+                0x00001791                vg_3A
+                0x000019a8                vg_7D
+                0x00001d7a                vg_DF
+                0x00001a05                vg_85
+                0x00001808                vg_4A
+                0x000015be                vg_0F
+                0x00001795                vg_3B
+                0x00001ca3                vg_C9
+                0x00001962                vg_74
+                0x00001768                vg_37
+                0x00001a25                vg_87
+                0x00001564                vg_0A
+                0x00001cfa                vg_D5
+                0x00001d16                vg_DA
+                0x000019c2                vg_80
+                0x000017e4                vg_45
+                0x00001a4c                vg_8A
+                0x0000182c                vg_4F
+                0x0000161c                vg_15
+                0x00001e54                vg_F2
+                0x0000179b                vg_3C
+                0x000019a4                vg_7C
+                0x000017a7                vg_3F
+                0x00001942                vg_71
+                0x0000174a                vg_34
+                0x000017bd                vg_41
+                0x000014e2                vg_06
+                0x00001d0c                vg_D8
+                0x0000141d                vg_01
+                0x00001b76                vg_A5
+                0x00001ea4                vg_FE
+                0x00001900                vg_69
+                0x00001b3e                vg_A0
+                0x0000192b                vg_6F
+                0x00001c38                vg_B4
+                0x00001e60                vg_F4
+                0x00001c42                vg_B6
+                0x00001e41                vg_EF
+                0x00001ad8                vg_97
+                0x00001662                vg_1A
+                0x00001d1a                vg_DB
+                0x000019d0                vg_81
+                0x000017eb                vg_46
+                0x00001cf0                vg_D3
+                0x00001897                vg_5B
+                0x00001988                vg_79
+                0x00001cca                vg_CE
+                0x0000172a                vg_31
+                0x00001a70                vg_8E
+                0x00001db2                vg_E3
+                0x00001ba4                vg_AB
+                0x00001671                vg_1D
+                0x0000184b                vg_52
+                0x0000165d                vg_19
+                0x00001915                vg_6C
+                0x00001718                vg_2D
+                0x00001632                vg_16
+                0x00001c36                vg_B3
+                0x00001935                vg_70
+                0x0000173b                vg_33
+                0x000017dc                vg_44
+                0x0000155a                vg_09
+                0x00001d38                vg_DC
+                0x000019da                vg_82
+                0x000017f1                vg_47
+                0x000018c2                vg_63
+                0x000016c9                vg_24
+                0x00001991                vg_7A
+                0x0000179f                vg_3D
+                0x00001c87                vg_C3
+                0x00001c91                vg_C6
+                0x00001970                vg_76
+                0x00001785                vg_39
+                0x0000159b                vg_0D
+                0x00001a60                vg_8C
+                0x00001e2c                vg_ED
+                0x00001ac0                vg_95
+                0x0000187e                vg_58
+                0x00001e80                vg_F8
+                0x00001c5b                vg_BA
+                0x00001e48                vg_F0
+                0x00001c52                vg_B9
+                0x00001cc6                vg_CD
+                0x0000171e                vg_30
+                0x00001a69                vg_8D
+                0x0000189c                vg_5C
+                0x00001b88                vg_A7
+                0x00001d06                vg_D7
+                0x0000141c                vg_00
+                0x000017c5                vg_42
+                0x00001510                vg_07
+                0x00001d90                vg_E0
+                0x00001e9c                vg_FD
+                0x000018f9                vg_68
+                0x00001703                vg_29
+                0x00001bf0                vg_B1
+                0x00001c48                vg_B7
+                0x00001cd8                vg_CF
+                0x0000172f                vg_32
+                0x00001a30                vg_88
+                0x0000157e                vg_0B
+                0x00001d4e                vg_DD
+                0x000019e7                vg_83
+                0x000017fc                vg_48
+                0x00001e38                vg_EE
+                0x00001acc                vg_96
+                0x00001885                vg_59
+                0x00001b09                vg_9C
+                0x000018a6                vg_5F
+                0x00001e8d                vg_FB
+                0x000018e1                vg_66
+                0x000016fa                vg_27
+                0x00001826                vg_4E
+                0x00001ae2                vg_98
+                0x00001668                vg_1B
+                0x00001691                vg_1F
+                0x00001b94                vg_A8
+                0x00001a92                vg_91
+                0x00001865                vg_54
+                0x00001708                vg_2A
+                0x00001c4d                vg_B8
+                0x00001cab                vg_CA
+                0x00001811                vg_4B
+                0x00001486                vg_04
+                0x00001906                vg_6A
+                0x00001710                vg_2B
+                0x000018b7                vg_62
+                0x000016c1                vg_23
+                0x00001c7f                vg_C1
+                0x00001d00                vg_D6
+                0x00001dd8                vg_E7
+                0x00001bd8                vg_AF
+                0x00001604                vg_12
+                0x000019b5                vg_7E
+                0x00001c8d                vg_C5
+                0x00001d9f                vg_E1
+                0x00001b9d                vg_A9
+                0x00001e8a                vg_F9
+                0x00001c5f                vg_BB
+                0x00001e4e                vg_F1
+                0x000018cb                vg_64
+                0x000016d7                vg_25
+                0x00001df0                vg_E9
+                0x00001612                vg_14
+                0x00001d12                vg_D9
+                0x0000142c                vg_02
+                0x00001b32                vg_9F
+                0x00001eb8                vg_FF
+                0x00001924                vg_6E
+                0x0000171c                vg_2F
+                0x00001cf5                vg_D4
+                0x00001a3f                vg_89
+                0x0000158d                vg_0C
+                0x00001b4c                vg_A1
+                0x00001db8                vg_E4
+                0x00001bb1                vg_AC
+                0x00001b00                vg_9B
+                0x000018a3                vg_5E
+                0x00001e8c                vg_FA
+                0x000018d6                vg_65
+                0x000016e5                vg_26
+                0x00001c8b                vg_C4
+                0x00001a7a                vg_8F
+                0x000017b1                vg_40
+                0x000014ae                vg_05
+                0x00001b5f                vg_A3
+                0x00001a89                vg_90
+                0x00001857                vg_53
+                0x0000191a                vg_6D
+                0x0000171a                vg_2E
+                0x00001c79                vg_BF
+                0x000018ab                vg_61
+                0x000016bd                vg_22
+                0x00001836                vg_50
+                0x0000164e                vg_17
+                0x00001980                vg_78
+                0x000019bb                vg_7F
+                0x0000190e                vg_6B
+                0x00001714                vg_2C
+                0x00001c3c                vg_B5
+                0x00001d64                vg_DE
+                0x000019f7                vg_84
+                0x00001802                vg_49
+                0x00001cb4                vg_CB
+                0x00001c97                vg_C7
+ .progmem.data  0x000020be       0x85 C:\MD\md_lib\libdonkey2561_108.a(calc.o)
+ .progmem.data  0x00002143      0x125 C:\MD\md_lib\libdonkey2561_108.a(kbd.o)
+                0x00002268                . = ALIGN (0x2)
+                0x00002268                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00002268        0x0 linker stubs
+ *(.trampolines*)
+                0x00002268                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00002268                __ctors_start = .
+ *(.ctors)
+                0x00002268                __ctors_end = .
+                0x00002268                __dtors_start = .
+ *(.dtors)
+                0x00002268                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00002268        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6/crtm2561.o
+                0x00002268                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00002268       0x10 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6/crtm2561.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00002278       0x1a c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6/crtm2561.o
+                0x00002278                __do_copy_data
+ .init4         0x00002292       0x10 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_clear_bss.o)
+                0x00002292                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000022a2        0x8 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6/crtm2561.o
+ *(.init9)
+ *(.text)
+ .text          0x000022aa        0x4 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6/crtm2561.o
+                0x000022aa                __vector_22
+                0x000022aa                __vector_28
+                0x000022aa                __vector_1
+                0x000022aa                __vector_32
+                0x000022aa                __vector_34
+                0x000022aa                __vector_24
+                0x000022aa                __vector_12
+                0x000022aa                __vector_46
+                0x000022aa                __bad_interrupt
+                0x000022aa                __vector_6
+                0x000022aa                __vector_31
+                0x000022aa                __vector_35
+                0x000022aa                __vector_39
+                0x000022aa                __vector_3
+                0x000022aa                __vector_23
+                0x000022aa                __vector_30
+                0x000022aa                __vector_45
+                0x000022aa                __vector_11
+                0x000022aa                __vector_13
+                0x000022aa                __vector_17
+                0x000022aa                __vector_19
+                0x000022aa                __vector_7
+                0x000022aa                __vector_49
+                0x000022aa                __vector_41
+                0x000022aa                __vector_43
+                0x000022aa                __vector_5
+                0x000022aa                __vector_33
+                0x000022aa                __vector_47
+                0x000022aa                __vector_37
+                0x000022aa                __vector_4
+                0x000022aa                __vector_44
+                0x000022aa                __vector_9
+                0x000022aa                __vector_2
+                0x000022aa                __vector_15
+                0x000022aa                __vector_29
+                0x000022aa                __vector_40
+                0x000022aa                __vector_8
+                0x000022aa                __vector_26
+                0x000022aa                __vector_48
+                0x000022aa                __vector_14
+                0x000022aa                __vector_10
+                0x000022aa                __vector_50
+                0x000022aa                __vector_16
+                0x000022aa                __vector_18
+                0x000022aa                __vector_20
+                0x000022aa                __vector_42
+ .text          0x000022ae      0x49c main.o
+                0x00002308                draw_pattern
+                0x000022ae                xform2
+                0x00002740                main
+ .text          0x0000274a        0x6 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(exit.o)
+                0x0000274a                exit
+ .text          0x00002750        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fixsfsi.o)
+ .text          0x00002750        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fixunssfsi.o)
+ .text          0x00002750        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(floatsisf.o)
+ .text          0x00002750        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fp_split3.o)
+ .text          0x00002750        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fp_zero.o)
+ .text          0x00002750      0xbc6 C:\MD\md_lib\libdonkey2561_108.a(adc.o)
+                0x00002be6                wait_until_touched
+                0x00002a56                get_touch
+                0x00002a32                clear_touch
+                0x00002cbc                delay_until_touched
+                0x0000287a                touch_init
+                0x00002c48                delay_while_touched
+                0x00002774                adc_10KHz_update
+                0x00002bf2                wait_while_touched
+                0x00002bfe                save_touch_cal
+                0x00002d30                calibrate_touch
+                0x00002750                adc_init
+                0x00002846                default_touch_cal
+                0x00002828                get_adc_sample
+ .text          0x00003316      0xccc C:\MD\md_lib\libdonkey2561_108.a(curves.o)
+                0x00003a0e                xform
+                0x00003316                next_u
+                0x00003940                par_arc_init
+                0x000033a2                bezier_init
+                0x00003ed8                par_arc_nextpoint
+                0x0000343c                bezier_test
+                0x00003fbe                next_point
+                0x00003aa8                draw_donkey_logo
+                0x0000389a                par_line_nextpoint
+                0x0000351a                bezier_nextpoint
+                0x00003a68                thick_line
+                0x00003798                par_line_init
+ .text          0x00003fe2     0x1514 C:\MD\md_lib\libdonkey2561_108.a(graph.o)
+                0x00004018                map_waypoint_init
+                0x00004030                out_code
+                0x000043a6                map_home
+                0x00004200                view2d_xform
+                0x00004edc                x2d_polygon
+                0x00004b1c                map_update
+                0x0000517e                polar_grid
+                0x00004908                view2d_grid
+                0x000050e2                polar_ray
+                0x00003fe2                viewport_init
+                0x00004542                view2d_viewport_frame
+                0x000045b0                view2d_viewport_clear
+                0x00004078                x2d_xform
+                0x000043d0                map_re_init
+                0x000047e4                view2d_draw_waypoints
+                0x000045de                clipped_line
+                0x00004790                clipped_box
+                0x00005208                polar_grid_fullscreen
+                0x000044ae                map_init
+                0x00005216                map_demo
+                0x00004fb4                x2d_grid
+                0x00004e6a                view2d_line
+                0x00004a36                view2d_polygon
+ .text          0x000054f6     0x23d8 C:\MD\md_lib\libdonkey2561_108.a(lcd.o)
+                0x00006dfc                fill_screen
+                0x00005c56                lcd_setxy
+                0x000056a0                read_screen
+                0x0000590a                read_word
+                0x000057a8                write_screen_word
+                0x000068a8                lcd_char
+                0x000067bc                paint
+                0x00006394                filled_box
+                0x000064ee                pass_paint
+                0x000076fa                box
+                0x0000551e                cmd_wait
+                0x000055bc                text_char
+                0x0000726e                line
+                0x00005736                read_screen_byte
+                0x000059a2                read_block
+                0x00006e8e                lcd_clear
+                0x00006846                lcd_scroll
+                0x0000593a                read_string
+                0x000054f6                bus_in_use
+                0x00005762                write_screen_byte
+                0x00006c4a                lcd_textPM
+                0x00005bec                read_dword
+                0x00005566                set_addr
+                0x00005b7c                write_dword
+                0x00005854                read_screen_dword
+                0x00005826                read_screen_word
+                0x0000784e                page_reset
+                0x0000578e                lcd_set_stdout
+                0x00007866                lcd_pageflip
+                0x00005538                send_command
+                0x000058da                read_byte
+                0x0000789e                lcd_init
+                0x000057d0                write_screen_dword
+                0x00005acc                write_block
+                0x00005c8c                blit
+                0x00005b60                stringPS
+                0x00005504                busy_wait
+                0x00006ea0                dot
+                0x00005a46                write_word
+                0x00006478                hline
+                0x00005b46                page_buffers
+                0x0000777a                lcd_xinit
+                0x00006418                thick_box
+                0x0000763c                shaded_box
+                0x0000736a                arc
+                0x00005c74                invert_colors
+                0x00005622                write_screen
+                0x00005a72                write_string
+                0x00005a1c                write_byte
+                0x00006bd4                lcd_text
+                0x000077f6                set_lcdtop
+                0x00006f7c                ellipse
+ .text          0x000078ce      0x8f0 C:\MD\md_lib\libdonkey2561_108.a(md.o)
+                0x00008188                md_init
+                0x000080c2                md_init_no_logo
+                0x00007dd6                misc_setup
+                0x00007aca                check_point
+                0x0000800c                hw_init
+                0x0000797a                check_flash
+                0x000078ce                gps_demo
+                0x0000796c                do_demos
+                0x00007db6                lcd_backlight
+ .text          0x000081be     0x1686 C:\MD\md_lib\libdonkey2561_108.a(md_term.o)
+                0x0000832a                mdt_scroll
+                0x00009248                mdt_dot
+                0x0000841a                mdt_viewport_clear
+                0x000092f2                mdt_charxy
+                0x000087ba                mdt_bezcurve
+                0x00008a24                mdt_ellipse
+                0x000093b8                mdt_setxy
+                0x00008cc8                mdt_shaded_box
+                0x000095fc                mdt_set_rotate
+                0x00008396                mdt_write_screen
+                0x000081be                mdt_mouse_update
+                0x0000903a                mdt_hline
+                0x00008620                mdt_blit
+                0x00009122                mdt_line
+                0x00009652                mdt_read_screen
+                0x00008b4a                mdt_arc
+                0x00008f14                mdt_box
+                0x00008492                mdt_set_lcdtop
+                0x000084fa                mdt_set_topline
+                0x00008448                mdt_clear
+                0x0000952e                mdt_forced_setcolor
+                0x00009462                mdt_set_bg_color
+                0x000094c8                mdt_set_color
+                0x00009550                mdt_set_char_size
+                0x00008dee                mdt_filled_box
+                0x000095a6                mdt_set_draw_flags
+                0x00009716                mdt_init
+                0x0000856e                mdt_paint
+ .text          0x00009844     0x13be C:\MD\md_lib\libdonkey2561_108.a(menu.o)
+                0x0000a4a4                menu_button
+                0x00009cf0                menu_slider_v1
+                0x000098e8                menu_label
+                0x000098d6                menu_call
+                0x0000a79e                menu_buttonrow
+                0x00009844                set_Pressed
+                0x00009896                menu_init
+                0x000098e0                menu_cmd
+                0x0000a184                menu_checkbox_1
+                0x0000995c                menu_slider1
+                0x0000a822                stored_menu
+                0x0000a71a                menu_buttoncol
+                0x0000aba0                menu_begin
+ .text          0x0000ac02      0xae6 C:\MD\md_lib\libdonkey2561_108.a(timer.o)
+                0x0000ac9a                beeping
+                0x0000ae8c                timer1_set_output_compare_int_ABC
+                0x0000ad88                timer1_set_prescale
+                0x0000accc                get_msecs_alive
+                0x0000af48                timer3_set_int_inputcapture
+                0x0000b03e                day_of_week
+                0x0000ac34                speaker_tick
+                0x0000af30                timer1_set_int_inputcapture
+                0x0000ac8a                beep_wait
+                0x0000aec6                timer3_set_output_compare_int_ABC
+                0x0000ae40                timer3_set_output_compare_ABC
+                0x0000b0b0                getdt
+                0x0000ad96                timer3_set_prescale
+                0x0000adf4                timer1_set_output_compare_ABC
+                0x0000b274                delay_msecs
+                0x0000b30a                set_time
+                0x0000b09a                setdt
+                0x0000ada4                timer1_set_waveform
+                0x0000ac02                timer0_init
+                0x0000af00                timer1_set_int_overflow
+                0x0000acb4                get_time_alive_secs
+                0x0000b0f2                __vector_21
+                0x0000af60                time_hook
+                0x0000adcc                timer3_set_waveform
+                0x0000ac40                beep
+                0x0000ace4                reset_time_alive
+                0x0000af18                timer3_set_int_overflow
+                0x0000ad0c                rand16
+ .text          0x0000b6e8     0x1490 C:\MD\md_lib\libdonkey2561_108.a(uart.o)
+                0x0000b828                __vector_38
+                0x0000c10a                print_intb
+                0x0000c0a2                print
+                0x0000c19a                uart0_test
+                0x0000bdf2                uart_send
+                0x0000c342                uart1_init
+                0x0000ba68                print1_hexword
+                0x0000b7b8                uart0_set_stdout
+                0x0000c662                com_setup
+                0x0000c0d4                putch
+                0x0000c24a                __vector_25
+                0x0000ba40                print1_hexnibble
+                0x0000bfd0                print_int
+                0x0000c4d2                uart0_init
+                0x0000b6e8                uart0_flush
+                0x0000bb86                putch1
+                0x0000b74a                __vector_27
+                0x0000bb6e                print1_eol
+                0x0000bfb6                print_hexword
+                0x0000ba52                print1_hexbyte
+                0x0000bfa0                print_hexbyte
+                0x0000c116                rx_getchar
+                0x0000bb7c                println1
+                0x0000c0bc                print_eol
+                0x0000bb54                print1
+                0x0000ba82                print1_int
+                0x0000bcfa                __vector_36
+                0x0000bc40                uart1_test
+                0x0000bbbc                rx1_getchar
+                0x0000b7c6                uart1_flush
+                0x0000b896                uart1_set_stdout
+                0x0000b8a4                uart1_send
+                0x0000c0ca                println
+                0x0000bf8e                print_hexnibble
+ .text          0x0000cb78      0x76e C:\MD\md_lib\libdonkey2561_108.a(vchar.o)
+                0x0000cca2                vchar_erase
+                0x0000cc88                vchar_set_stdout
+                0x0000cd30                vchar_char
+                0x0000d0d0                vchar_text
+                0x0000cfa8                vchar_set_thickness
+                0x0000cfca                vchar_set_fontsize
+                0x0000cffc                vchar_textPM
+                0x0000cb78                vchar_set_slant
+                0x0000ccfc                vchar_init
+                0x0000cf86                vchar_set_spacing
+ .text          0x0000d2e6      0xc24 C:\MD\md_lib\libdonkey2561_108.a(calc.o)
+                0x0000d61e                add_to_display
+                0x0000d30c                format_number
+                0x0000d2e6                charloc
+                0x0000d43e                eval
+                0x0000d66a                menu_calc
+ .text          0x0000df0a      0x88a C:\MD\md_lib\libdonkey2561_108.a(kbd.o)
+                0x0000df0a                show_edit_text
+                0x0000e04c                kbd_row
+                0x0000dfca                edit_beep
+                0x0000dff0                kbd_key
+                0x0000e0e2                menu_kbd
+ .text          0x0000e794      0x21c C:\MD\md_lib\libdonkey2561_108.a(led.o)
+                0x0000e82a                led_set
+                0x0000e794                LED_PWM_Service
+                0x0000e924                led_pwm
+ .text          0x0000e9b0        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(addsf3.o)
+ .text          0x0000e9b0        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+ .text          0x0000e9b0        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(cos.o)
+ .text          0x0000e9b0        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(divsf3.o)
+ .text          0x0000e9b0        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(divsf3x.o)
+ .text          0x0000e9b0        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_cmp.o)
+ .text          0x0000e9b0        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_inf.o)
+ .text          0x0000e9b0        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_nan.o)
+ .text          0x0000e9b0        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
+ .text          0x0000e9b0        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
+ .text          0x0000e9b0        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_rempio2.o)
+ .text          0x0000e9b0        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_round.o)
+ .text          0x0000e9b0        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_sinus.o)
+ .text          0x0000e9b0        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(mulsf3.o)
+ .text          0x0000e9b0        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+ .text          0x0000e9b0        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(sin.o)
+ .text          0x0000e9b0        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_mpack.o)
+ .text          0x0000e9b0        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_powsodd.o)
+ .text          0x0000e9b0        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_powser.o)
+ .text          0x0000e9b0        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_mulsi3.o)
+ .text          0x0000e9b0        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_udivmodhi4.o)
+ .text          0x0000e9b0        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_divmodhi4.o)
+ .text          0x0000e9b0        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_udivmodsi4.o)
+ .text          0x0000e9b0        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_divmodsi4.o)
+ .text          0x0000e9b0        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_exit.o)
+ .text          0x0000e9b0        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_clear_bss.o)
+ .text          0x0000e9b0        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(tolower.o)
+ .text          0x0000e9b0        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(toupper.o)
+ .text          0x0000e9b0       0x1e c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(strncpy_P.o)
+                0x0000e9b0                strncpy_P
+ .text          0x0000e9ce       0x16 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(strcat.o)
+                0x0000e9ce                strcat
+ .text          0x0000e9e4        0xe c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(strcpy.o)
+                0x0000e9e4                strcpy
+ .text          0x0000e9f2       0x1e c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(strncpy.o)
+                0x0000e9f2                strncpy
+ .text          0x0000ea10        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(iob.o)
+ .text          0x0000ea10       0x2e c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(printf.o)
+                0x0000ea10                printf
+ .text          0x0000ea3e        0xe c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(putchar.o)
+                0x0000ea3e                putchar
+ .text          0x0000ea4c       0x66 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(puts.o)
+                0x0000ea4c                puts
+ .text          0x0000eab2       0x4a c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(sprintf.o)
+                0x0000eab2                sprintf
+ .text          0x0000eafc       0x36 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(sscanf.o)
+                0x0000eafc                sscanf
+ .text          0x0000eb32      0x3f0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(vfprintf_std.o)
+                0x0000eb32                vfprintf
+ .text          0x0000ef22      0x4ee c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(vfscanf_std.o)
+                0x0000ef22                vfscanf
+ .text          0x0000f410        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_rb.1F2021.o)
+ .text          0x0000f410        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_rblk.1F2021.o)
+ .text          0x0000f410        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_rw.1F2021.o)
+ .text          0x0000f410        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_wb.1F2021.o)
+ .text          0x0000f410        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_ww.1F2021.o)
+ .text          0x0000f410        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_wblk.1F2021.o)
+ .text          0x0000f410        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(isspace.o)
+ .text          0x0000f410       0x16 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(strnlen_P.o)
+                0x0000f410                strnlen_P
+ .text          0x0000f426       0x16 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(strnlen.o)
+                0x0000f426                strnlen
+ .text          0x0000f43c       0x80 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fgetc.o)
+                0x0000f43c                fgetc
+ .text          0x0000f4bc       0x58 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fputc.o)
+                0x0000f4bc                fputc
+ .text          0x0000f514       0x34 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ungetc.o)
+                0x0000f514                ungetc
+ .text          0x0000f548       0xbc c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ultoa_invert.o)
+                0x0000f548                __ultoa_invert
+ .text          0x0000f604        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(cty_isfalse.o)
+ .text          0x0000f604        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_prologue.o)
+ .text          0x0000f604        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_epilogue.o)
+                0x0000f604                . = ALIGN (0x2)
+ *(.text.*)
+ .text.fplib    0x0000f604        0xa c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fixsfsi.o)
+                0x0000f604                __fixsfsi
+ .text.fplib    0x0000f60e       0x58 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fixunssfsi.o)
+                0x0000f60e                __fixunssfsi
+ .text.fplib    0x0000f666       0x7a c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(floatsisf.o)
+                0x0000f66a                __floatsisf
+                0x0000f666                __floatunssisf
+ .text.fplib    0x0000f6e0       0x44 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fp_split3.o)
+                0x0000f6e0                __fp_split3
+                0x0000f6f0                __fp_splitA
+ .text.fplib    0x0000f724        0xe c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fp_zero.o)
+                0x0000f724                __fp_zero
+                0x0000f726                __fp_szero
+ .text.fplib    0x0000f732        0xa c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(addsf3.o)
+                0x0000f732                __subsf3
+                0x0000f734                __addsf3
+ .text.fplib    0x0000f73c       0xc0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+                0x0000f756                __addsf3x
+ .text.fplib    0x0000f7fc        0x6 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(cos.o)
+                0x0000f7fc                cos
+ .text.fplib    0x0000f802        0x4 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(divsf3.o)
+                0x0000f802                __divsf3
+ .text.fplib    0x0000f806       0xcc c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(divsf3x.o)
+                0x0000f81c                __divsf3x
+                0x0000f820                __divsf3_pse
+ .text.fplib    0x0000f8d2       0x58 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_cmp.o)
+                0x0000f8d2                __lesf2
+                0x0000f8d2                __nesf2
+                0x0000f8da                __gtsf2
+                0x0000f8d2                __eqsf2
+                0x0000f8d2                __cmpsf2
+                0x0000f8d2                __ltsf2
+                0x0000f8da                __gesf2
+ .text.fplib    0x0000f92a        0xc c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_inf.o)
+                0x0000f92a                __fp_inf
+ .text.fplib    0x0000f936        0x6 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_nan.o)
+                0x0000f936                __fp_nan
+ .text.fplib    0x0000f93c        0xe c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
+                0x0000f93c                __fp_pscA
+ .text.fplib    0x0000f94a        0xe c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
+                0x0000f94a                __fp_pscB
+ .text.fplib    0x0000f958       0x62 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_rempio2.o)
+                0x0000f95a                __fp_rempio2
+ .text.fplib    0x0000f9ba       0x22 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_round.o)
+                0x0000f9ba                __fp_round
+ .text.fplib    0x0000f9dc       0x22 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_sinus.o)
+                0x0000f9dc                __fp_sinus
+ .text.fplib    0x0000f9fe        0x4 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(mulsf3.o)
+                0x0000f9fe                __mulsf3
+ .text.fplib    0x0000fa02       0xc2 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+                0x0000fa1a                __mulsf3_pse
+                0x0000fa16                __mulsf3x
+ .text.fplib    0x0000fac4        0xc c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(sin.o)
+                0x0000fac4                sin
+ .text.fplib    0x0000fad0       0x20 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_mpack.o)
+                0x0000fad0                __fp_mpack
+ .text.fplib    0x0000faf0       0x22 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_powsodd.o)
+                0x0000faf0                __fp_powsodd
+ .text.fplib    0x0000fb12       0x4a c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_powser.o)
+                0x0000fb12                __fp_powser
+ .text.libgcc   0x0000fb5c       0x3e c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_mulsi3.o)
+                0x0000fb5c                __mulsi3
+ .text.libgcc   0x0000fb9a       0x28 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_udivmodhi4.o)
+                0x0000fb9a                __udivmodhi4
+ .text.libgcc   0x0000fbc2       0x26 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_divmodhi4.o)
+                0x0000fbc2                __divmodhi4
+                0x0000fbc2                _div
+ .text.libgcc   0x0000fbe8       0x44 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_udivmodsi4.o)
+                0x0000fbe8                __udivmodsi4
+ .text.libgcc   0x0000fc2c       0x36 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_divmodsi4.o)
+                0x0000fc2c                __divmodsi4
+ .text.libgcc   0x0000fc62        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_exit.o)
+ .text.libgcc   0x0000fc62        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_clear_bss.o)
+ .text.ctype    0x0000fc62       0x10 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(tolower.o)
+                0x0000fc62                tolower
+ .text.ctype    0x0000fc72       0x10 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(toupper.o)
+                0x0000fc72                toupper
+ .text.eeprom   0x0000fc82       0x10 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_rb.1F2021.o)
+                0x0000fc82                __eeprom_read_byte_1F2021
+ .text.eeprom   0x0000fc92        0xa c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_rblk.1F2021.o)
+                0x0000fc92                __eeprom_read_block_1F2021
+ .text.eeprom   0x0000fc9c        0xa c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_rw.1F2021.o)
+                0x0000fc9c                __eeprom_read_word_1F2021
+ .text.eeprom   0x0000fca6       0x18 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_wb.1F2021.o)
+                0x0000fca6                __eeprom_write_byte_1F2021
+ .text.eeprom   0x0000fcbe        0xa c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_ww.1F2021.o)
+                0x0000fcbe                __eeprom_write_word_1F2021
+ .text.eeprom   0x0000fcc8        0xa c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_wblk.1F2021.o)
+                0x0000fcc8                __eeprom_write_block_1F2021
+ .text.ctype    0x0000fcd2       0x10 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(isspace.o)
+                0x0000fcd2                isspace
+ .text.ctype    0x0000fce2        0x6 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(cty_isfalse.o)
+                0x0000fce6                __ctype_istrue
+                0x0000fce2                __ctype_isfalse
+ .text.libgcc   0x0000fce8       0x38 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_prologue.o)
+                0x0000fce8                __prologue_saves__
+ .text.libgcc   0x0000fd20       0x36 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_epilogue.o)
+                0x0000fd20                __epilogue_restores__
+                0x0000fd56                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000fd56        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_exit.o)
+                0x0000fd56                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000fd56        0x2 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000fd58                _etext = .
+
+.data           0x00800200      0x16c load address 0x0000fd58
+                0x00800200                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800200        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6/crtm2561.o
+ .data          0x00800200        0x0 main.o
+ .data          0x00800200        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(exit.o)
+ .data          0x00800200        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fixsfsi.o)
+ .data          0x00800200        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fixunssfsi.o)
+ .data          0x00800200        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(floatsisf.o)
+ .data          0x00800200        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fp_split3.o)
+ .data          0x00800200        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fp_zero.o)
+ .data          0x00800200       0x26 C:\MD\md_lib\libdonkey2561_108.a(adc.o)
+                0x0080021c                cal
+ .data          0x00800226        0x0 C:\MD\md_lib\libdonkey2561_108.a(curves.o)
+ .data          0x00800226       0x1a C:\MD\md_lib\libdonkey2561_108.a(graph.o)
+                0x00800226                Arrow
+                0x00800238                XFsx
+                0x0080023c                XFsy
+ .data          0x00800240       0x37 C:\MD\md_lib\libdonkey2561_108.a(lcd.o)
+                0x00800240                pixel_masks
+                0x00800248                left_mask
+                0x00800258                color_table
+                0x00800250                right_mask
+                0x00800268                pixels_per_byte
+ .data          0x00800277       0x4e C:\MD\md_lib\libdonkey2561_108.a(md.o)
+                0x008002bf                ckpt
+ .data          0x008002c5        0x0 C:\MD\md_lib\libdonkey2561_108.a(md_term.o)
+ .data          0x008002c5       0x2a C:\MD\md_lib\libdonkey2561_108.a(menu.o)
+                0x008002ee                invert_buttons
+ .data          0x008002ef        0xb C:\MD\md_lib\libdonkey2561_108.a(timer.o)
+ .data          0x008002fa       0x48 C:\MD\md_lib\libdonkey2561_108.a(uart.o)
+ .data          0x00800342        0xe C:\MD\md_lib\libdonkey2561_108.a(vchar.o)
+ .data          0x00800350       0x1b C:\MD\md_lib\libdonkey2561_108.a(calc.o)
+ .data          0x0080036b        0x0 C:\MD\md_lib\libdonkey2561_108.a(kbd.o)
+ .data          0x0080036b        0x0 C:\MD\md_lib\libdonkey2561_108.a(led.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(addsf3.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(cos.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(divsf3.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(divsf3x.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_cmp.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_inf.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_nan.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_rempio2.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_round.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_sinus.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(mulsf3.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(sin.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_mpack.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_powsodd.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_powser.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_mulsi3.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_udivmodhi4.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_divmodhi4.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_udivmodsi4.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_divmodsi4.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_exit.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_clear_bss.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(tolower.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(toupper.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(strncpy_P.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(strcat.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(strcpy.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(strncpy.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(iob.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(printf.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(putchar.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(puts.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(sprintf.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(sscanf.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(vfprintf_std.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(vfscanf_std.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_rb.1F2021.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_rblk.1F2021.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_rw.1F2021.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_wb.1F2021.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_ww.1F2021.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_wblk.1F2021.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(isspace.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(strnlen_P.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(strnlen.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fgetc.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fputc.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ungetc.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ultoa_invert.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(cty_isfalse.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_prologue.o)
+ .data          0x0080036b        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_epilogue.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x0080036c                . = ALIGN (0x2)
+ *fill*         0x0080036b        0x1 00
+                0x0080036c                _edata = .
+                0x0080036c                PROVIDE (__data_end, .)
+
+.bss            0x0080036c      0x3e1 load address 0x0000fec4
+                0x0080036c                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x0080036c        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6/crtm2561.o
+ .bss           0x0080036c        0x0 main.o
+ .bss           0x0080036c        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(exit.o)
+ .bss           0x0080036c        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fixsfsi.o)
+ .bss           0x0080036c        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fixunssfsi.o)
+ .bss           0x0080036c        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(floatsisf.o)
+ .bss           0x0080036c        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fp_split3.o)
+ .bss           0x0080036c        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fp_zero.o)
+ .bss           0x0080036c        0x0 C:\MD\md_lib\libdonkey2561_108.a(adc.o)
+ .bss           0x0080036c        0x0 C:\MD\md_lib\libdonkey2561_108.a(curves.o)
+ .bss           0x0080036c        0x6 C:\MD\md_lib\libdonkey2561_108.a(graph.o)
+                0x0080036c                XFtx
+                0x00800370                XFtheta
+                0x0080036e                XFty
+ .bss           0x00800372        0x0 C:\MD\md_lib\libdonkey2561_108.a(lcd.o)
+ .bss           0x00800372        0x0 C:\MD\md_lib\libdonkey2561_108.a(md.o)
+ .bss           0x00800372        0x0 C:\MD\md_lib\libdonkey2561_108.a(md_term.o)
+ .bss           0x00800372        0x0 C:\MD\md_lib\libdonkey2561_108.a(menu.o)
+ .bss           0x00800372        0x0 C:\MD\md_lib\libdonkey2561_108.a(timer.o)
+ .bss           0x00800372        0x0 C:\MD\md_lib\libdonkey2561_108.a(uart.o)
+ .bss           0x00800372        0x0 C:\MD\md_lib\libdonkey2561_108.a(vchar.o)
+ .bss           0x00800372        0x0 C:\MD\md_lib\libdonkey2561_108.a(calc.o)
+ .bss           0x00800372        0x1 C:\MD\md_lib\libdonkey2561_108.a(kbd.o)
+                0x00800372                kbd_shift
+ .bss           0x00800373        0x0 C:\MD\md_lib\libdonkey2561_108.a(led.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(addsf3.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(cos.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(divsf3.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(divsf3x.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_cmp.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_inf.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_nan.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_rempio2.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_round.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_sinus.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(mulsf3.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(sin.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_mpack.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_powsodd.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libm.a(fp_powser.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_mulsi3.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_udivmodhi4.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_divmodhi4.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_udivmodsi4.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_divmodsi4.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_exit.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_clear_bss.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(tolower.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(toupper.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(strncpy_P.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(strcat.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(strcpy.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(strncpy.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(iob.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(printf.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(putchar.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(puts.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(sprintf.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(sscanf.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(vfprintf_std.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(vfscanf_std.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_rb.1F2021.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_rblk.1F2021.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_rw.1F2021.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_wb.1F2021.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_ww.1F2021.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ee_wblk.1F2021.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(isspace.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(strnlen_P.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(strnlen.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fgetc.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(fputc.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ungetc.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(ultoa_invert.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(cty_isfalse.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_prologue.o)
+ .bss           0x00800373        0x0 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/avr6\libgcc.a(_epilogue.o)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x00800373      0x375 main.o
+                0x00800373                bg_color
+                0x00800374                mapNorthUp
+                0x00800375                mapFullScreen
+                0x00800376                com1_rx_paused
+                0x00800377                mdtHooked
+                0x00800378                ButtonBorder
+                0x00800379                Rx0Front
+                0x0080037a                joy_mode
+                0x0080037b                Tx1Front
+                0x0080037c                ps_buf
+                0x008003cd                Tx0Count
+                0x008003ce                com0_protocol
+                0x008003cf                ADCIndex
+                0x008003d0                Tx1Buf
+                0x00800448                mdtMouseY
+                0x0080044a                mapHeading
+                0x0080044c                rotate
+                0x0080044d                cursor_y
+                0x0080044f                service_100Hz
+                0x00800451                com1_protocol
+                0x00800452                HexMode
+                0x00800453                Y2
+                0x00800457                MenuDraw
+                0x00800458                ParArcRadius
+                0x0080045c                MenuBeep
+                0x0080045d                X2
+                0x00800461                com0_rx_paused
+                0x00800462                com0_tx_paused
+                0x00800463                Com0Error
+                0x00800464                MouseX
+                0x00800466                du
+                0x0080046a                mapLocY
+                0x0080046e                mapShowInfo
+                0x0080046f                ButtonRowSpacing
+                0x00800470                printf_flags
+                0x00800472                waypoints
+                0x0080049a                ButtonColSpacing
+                0x0080049b                vePort
+                0x0080049c                Tx1Count
+                0x0080049d                X4
+                0x008004a1                com1_tx_paused
+                0x008004a2                top_line
+                0x008004a4                Servo3Pos
+                0x008004b4                cursor_on
+                0x008004b6                lcd_col
+                0x008004b7                LED_PWM_State
+                0x008004b8                Rx1Count
+                0x008004b9                GraphOrgX
+                0x008004ba                ADCModeChannels
+                0x008004bb                char_size
+                0x008004bc                mapPageFlip
+                0x008004bd                service_10KHz
+                0x008004bf                Com1Error
+                0x008004c0                Tx0Back
+                0x008004c1                touchX
+                0x008004c3                Tx0Buf
+                0x0080053b                X1
+                0x0080053f                keyboard_drawn
+                0x00800540                touchY
+                0x00800542                md_InhibitPortPullUp
+                0x00800543                mdtMouseState
+                0x00800544                mdtNoLocalDisplay
+                0x00800545                GraphOrgY
+                0x00800546                Y4
+                0x0080054a                VCharSpaceY
+                0x0080054b                X3
+                0x0080054f                MenuCmd
+                0x00800550                Servo1Pos
+                0x00800560                time
+                0x0080056a                pVP
+                0x0080056c                lcd_row
+                0x0080056d                color
+                0x0080056e                Tx1BusyFirst
+                0x0080056f                text_mode
+                0x00800570                ADCData
+                0x00800580                VCharSpaceX
+                0x00800581                mdtMouseX
+                0x00800583                ParArcEndAngle
+                0x00800587                Rx0Back
+                0x00800588                Rx1Back
+                0x00800589                Tx0Front
+                0x0080058a                Rx0Count
+                0x0080058b                Rx1Front
+                0x0080058c                FrameBytes
+                0x0080058e                VP
+                0x008005a8                Tx0BusyFirst
+                0x008005a9                blit_buf
+                0x008005bf                mapInfoDisplay
+                0x008005c0                cursor_x
+                0x008005c2                VCharThicknessY
+                0x008005c3                CurX
+                0x008005c7                mapZoom
+                0x008005c8                ParArcStartAngle
+                0x008005cc                Rx0Buf
+                0x00800644                mapLocX
+                0x00800648                Y1
+                0x0080064c                DrawPage
+                0x0080064d                Tx1Back
+                0x0080064e                TWIErrors
+                0x0080064f                calc_scale
+                0x00800653                beep_disabled
+                0x00800654                Rx1Buf
+                0x008006cc                CurY
+                0x008006d0                duParamMode
+                0x008006d1                draw_flags
+                0x008006d2                LEDInten
+                0x008006d7                mdtMouseEnabled
+                0x008006d8                u
+                0x008006dc                MouseY
+                0x008006de                next_touch
+                0x008006df                DrawCmdActive
+                0x008006e0                double_buffers
+                0x008006e1                VCharThicknessX
+                0x008006e2                last_rand
+                0x008006e4                Y3
+ COMMON         0x008006e8        0x8 C:\MD\md_lib\libdonkey2561_108.a(curves.o)
+                0x008006e8                dx
+                0x008006ec                dy
+ COMMON         0x008006f0        0x4 C:\MD\md_lib\libdonkey2561_108.a(graph.o)
+                0x008006f0                mapLastUpdate
+ COMMON         0x008006f4        0x1 C:\MD\md_lib\libdonkey2561_108.a(md.o)
+                0x008006f4                time_not_set
+ COMMON         0x008006f5        0x5 C:\MD\md_lib\libdonkey2561_108.a(md_term.o)
+                0x008006f5                mdt_screen_byte
+                0x008006f6                remote_bgcolor
+                0x008006f7                mdtPort
+                0x008006f8                remote_color
+                0x008006f9                mdt_read_ready
+ COMMON         0x008006fa       0x20 C:\MD\md_lib\libdonkey2561_108.a(menu.o)
+                0x008006fa                Pressed
+ COMMON         0x0080071a       0x12 C:\MD\md_lib\libdonkey2561_108.a(timer.o)
+                0x0080071a                div_100Hz
+                0x0080071b                div_1KHz
+                0x0080071d                div_1Hz
+                0x0080071e                beep_freq
+                0x00800720                beep_freqcnt
+                0x00800722                TimeAliveSecs
+                0x00800726                TimeAliveMsecs
+                0x0080072a                beep_dur
+ COMMON         0x0080072c        0x2 C:\MD\md_lib\libdonkey2561_108.a(uart.o)
+                0x0080072c                force0_char
+                0x0080072d                force1_char
+ COMMON         0x0080072e       0x11 C:\MD\md_lib\libdonkey2561_108.a(vchar.o)
+                0x0080072e                VCharScaleX
+                0x0080072f                vchar_slant
+                0x00800737                VCharHeight
+                0x00800739                vchar_inited
+                0x0080073a                VCharWidth
+                0x0080073c                VCharScaleY
+                0x0080073d                VCharTable
+ COMMON         0x0080073f        0x8 C:\MD\md_lib\libdonkey2561_108.a(led.o)
+                0x0080073f                LED_PWM_Chain
+                0x00800741                PWMCount
+                0x00800742                LEDPWM
+ COMMON         0x00800747        0x6 c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6\libc.a(iob.o)
+                0x00800747                __iob
+                0x0080074d                PROVIDE (__bss_end, .)
+                0x0000fd58                __data_load_start = LOADADDR (.data)
+                0x0000fec4                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080074d        0x0
+                0x0080074d                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x0080074d                PROVIDE (__noinit_end, .)
+                0x0080074d                _end = .
+                0x0080074d                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000      0x42c
+ *(.stab)
+ .stab          0x00000000      0x42c c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6/crtm2561.o
+
+.stabstr        0x00000000       0x5f
+ *(.stabstr)
+ .stabstr       0x00000000       0x5f c:/winavr-20071221/bin/../lib/gcc/avr/4.2.2/../../../../avr/lib/avr6/crtm2561.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x1c0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 main.o
+ .debug_aranges
+                0x00000020       0x20 C:\MD\md_lib\libdonkey2561_108.a(adc.o)
+ .debug_aranges
+                0x00000040       0x20 C:\MD\md_lib\libdonkey2561_108.a(curves.o)
+ .debug_aranges
+                0x00000060       0x20 C:\MD\md_lib\libdonkey2561_108.a(graph.o)
+ .debug_aranges
+                0x00000080       0x20 C:\MD\md_lib\libdonkey2561_108.a(lcd.o)
+ .debug_aranges
+                0x000000a0       0x20 C:\MD\md_lib\libdonkey2561_108.a(md.o)
+ .debug_aranges
+                0x000000c0       0x20 C:\MD\md_lib\libdonkey2561_108.a(md_term.o)
+ .debug_aranges
+                0x000000e0       0x20 C:\MD\md_lib\libdonkey2561_108.a(menu.o)
+ .debug_aranges
+                0x00000100       0x20 C:\MD\md_lib\libdonkey2561_108.a(timer.o)
+ .debug_aranges
+                0x00000120       0x20 C:\MD\md_lib\libdonkey2561_108.a(uart.o)
+ .debug_aranges
+                0x00000140       0x20 C:\MD\md_lib\libdonkey2561_108.a(vchar.o)
+ .debug_aranges
+                0x00000160       0x20 C:\MD\md_lib\libdonkey2561_108.a(calc.o)
+ .debug_aranges
+                0x00000180       0x20 C:\MD\md_lib\libdonkey2561_108.a(kbd.o)
+ .debug_aranges
+                0x000001a0       0x20 C:\MD\md_lib\libdonkey2561_108.a(led.o)
+
+.debug_pubnames
+                0x00000000     0x54ab
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000      0x6d9 main.o
+ .debug_pubnames
+                0x000006d9      0x3d2 C:\MD\md_lib\libdonkey2561_108.a(adc.o)
+ .debug_pubnames
+                0x00000aab      0x4f3 C:\MD\md_lib\libdonkey2561_108.a(curves.o)
+ .debug_pubnames
+                0x00000f9e      0x5c9 C:\MD\md_lib\libdonkey2561_108.a(graph.o)
+ .debug_pubnames
+                0x00001567      0x6b6 C:\MD\md_lib\libdonkey2561_108.a(lcd.o)
+ .debug_pubnames
+                0x00001c1d      0x748 C:\MD\md_lib\libdonkey2561_108.a(md.o)
+ .debug_pubnames
+                0x00002365      0x7df C:\MD\md_lib\libdonkey2561_108.a(md_term.o)
+ .debug_pubnames
+                0x00002b44      0x5d8 C:\MD\md_lib\libdonkey2561_108.a(menu.o)
+ .debug_pubnames
+                0x0000311c      0x6b5 C:\MD\md_lib\libdonkey2561_108.a(timer.o)
+ .debug_pubnames
+                0x000037d1      0x698 C:\MD\md_lib\libdonkey2561_108.a(uart.o)
+ .debug_pubnames
+                0x00003e69      0xe4c C:\MD\md_lib\libdonkey2561_108.a(vchar.o)
+ .debug_pubnames
+                0x00004cb5      0x1f6 C:\MD\md_lib\libdonkey2561_108.a(calc.o)
+ .debug_pubnames
+                0x00004eab      0x2bb C:\MD\md_lib\libdonkey2561_108.a(kbd.o)
+ .debug_pubnames
+                0x00005166      0x345 C:\MD\md_lib\libdonkey2561_108.a(led.o)
+
+.debug_info     0x00000000    0x10bc3
+ *(.debug_info)
+ .debug_info    0x00000000      0xebb main.o
+ .debug_info    0x00000ebb      0xd4a C:\MD\md_lib\libdonkey2561_108.a(adc.o)
+ .debug_info    0x00001c05      0xd0a C:\MD\md_lib\libdonkey2561_108.a(curves.o)
+ .debug_info    0x0000290f     0x133e C:\MD\md_lib\libdonkey2561_108.a(graph.o)
+ .debug_info    0x00003c4d     0x1f6a C:\MD\md_lib\libdonkey2561_108.a(lcd.o)
+ .debug_info    0x00005bb7     0x15da C:\MD\md_lib\libdonkey2561_108.a(md.o)
+ .debug_info    0x00007191     0x10f7 C:\MD\md_lib\libdonkey2561_108.a(md_term.o)
+ .debug_info    0x00008288     0x10a0 C:\MD\md_lib\libdonkey2561_108.a(menu.o)
+ .debug_info    0x00009328     0x1211 C:\MD\md_lib\libdonkey2561_108.a(timer.o)
+ .debug_info    0x0000a539     0x1510 C:\MD\md_lib\libdonkey2561_108.a(uart.o)
+ .debug_info    0x0000ba49     0x34dc C:\MD\md_lib\libdonkey2561_108.a(vchar.o)
+ .debug_info    0x0000ef25      0x983 C:\MD\md_lib\libdonkey2561_108.a(calc.o)
+ .debug_info    0x0000f8a8      0xbf1 C:\MD\md_lib\libdonkey2561_108.a(kbd.o)
+ .debug_info    0x00010499      0x72a C:\MD\md_lib\libdonkey2561_108.a(led.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x2151
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x1a1 main.o
+ .debug_abbrev  0x000001a1      0x2ac C:\MD\md_lib\libdonkey2561_108.a(adc.o)
+ .debug_abbrev  0x0000044d      0x1e9 C:\MD\md_lib\libdonkey2561_108.a(curves.o)
+ .debug_abbrev  0x00000636      0x345 C:\MD\md_lib\libdonkey2561_108.a(graph.o)
+ .debug_abbrev  0x0000097b      0x3af C:\MD\md_lib\libdonkey2561_108.a(lcd.o)
+ .debug_abbrev  0x00000d2a      0x2e6 C:\MD\md_lib\libdonkey2561_108.a(md.o)
+ .debug_abbrev  0x00001010      0x1d3 C:\MD\md_lib\libdonkey2561_108.a(md_term.o)
+ .debug_abbrev  0x000011e3      0x263 C:\MD\md_lib\libdonkey2561_108.a(menu.o)
+ .debug_abbrev  0x00001446      0x38d C:\MD\md_lib\libdonkey2561_108.a(timer.o)
+ .debug_abbrev  0x000017d3      0x343 C:\MD\md_lib\libdonkey2561_108.a(uart.o)
+ .debug_abbrev  0x00001b16      0x225 C:\MD\md_lib\libdonkey2561_108.a(vchar.o)
+ .debug_abbrev  0x00001d3b      0x13e C:\MD\md_lib\libdonkey2561_108.a(calc.o)
+ .debug_abbrev  0x00001e79      0x193 C:\MD\md_lib\libdonkey2561_108.a(kbd.o)
+ .debug_abbrev  0x0000200c      0x145 C:\MD\md_lib\libdonkey2561_108.a(led.o)
+
+.debug_line     0x00000000     0x768f
+ *(.debug_line)
+ .debug_line    0x00000000      0x304 main.o
+ .debug_line    0x00000304      0x809 C:\MD\md_lib\libdonkey2561_108.a(adc.o)
+ .debug_line    0x00000b0d      0x432 C:\MD\md_lib\libdonkey2561_108.a(curves.o)
+ .debug_line    0x00000f3f      0x952 C:\MD\md_lib\libdonkey2561_108.a(graph.o)
+ .debug_line    0x00001891     0x1981 C:\MD\md_lib\libdonkey2561_108.a(lcd.o)
+ .debug_line    0x00003212      0x8a3 C:\MD\md_lib\libdonkey2561_108.a(md.o)
+ .debug_line    0x00003ab5      0x742 C:\MD\md_lib\libdonkey2561_108.a(md_term.o)
+ .debug_line    0x000041f7      0x8a8 C:\MD\md_lib\libdonkey2561_108.a(menu.o)
+ .debug_line    0x00004a9f      0x8a0 C:\MD\md_lib\libdonkey2561_108.a(timer.o)
+ .debug_line    0x0000533f      0xf23 C:\MD\md_lib\libdonkey2561_108.a(uart.o)
+ .debug_line    0x00006262      0x5cc C:\MD\md_lib\libdonkey2561_108.a(vchar.o)
+ .debug_line    0x0000682e      0x591 C:\MD\md_lib\libdonkey2561_108.a(calc.o)
+ .debug_line    0x00006dbf      0x5cf C:\MD\md_lib\libdonkey2561_108.a(kbd.o)
+ .debug_line    0x0000738e      0x301 C:\MD\md_lib\libdonkey2561_108.a(led.o)
+
+.debug_frame    0x00000000     0x1000
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x40 main.o
+ .debug_frame   0x00000040       0xe0 C:\MD\md_lib\libdonkey2561_108.a(adc.o)
+ .debug_frame   0x00000120       0xd0 C:\MD\md_lib\libdonkey2561_108.a(curves.o)
+ .debug_frame   0x000001f0      0x180 C:\MD\md_lib\libdonkey2561_108.a(graph.o)
+ .debug_frame   0x00000370      0x360 C:\MD\md_lib\libdonkey2561_108.a(lcd.o)
+ .debug_frame   0x000006d0       0xa0 C:\MD\md_lib\libdonkey2561_108.a(md.o)
+ .debug_frame   0x00000770      0x1d0 C:\MD\md_lib\libdonkey2561_108.a(md_term.o)
+ .debug_frame   0x00000940       0xe0 C:\MD\md_lib\libdonkey2561_108.a(menu.o)
+ .debug_frame   0x00000a20      0x1d0 C:\MD\md_lib\libdonkey2561_108.a(timer.o)
+ .debug_frame   0x00000bf0      0x250 C:\MD\md_lib\libdonkey2561_108.a(uart.o)
+ .debug_frame   0x00000e40       0xc0 C:\MD\md_lib\libdonkey2561_108.a(vchar.o)
+ .debug_frame   0x00000f00       0x60 C:\MD\md_lib\libdonkey2561_108.a(calc.o)
+ .debug_frame   0x00000f60       0x60 C:\MD\md_lib\libdonkey2561_108.a(kbd.o)
+ .debug_frame   0x00000fc0       0x40 C:\MD\md_lib\libdonkey2561_108.a(led.o)
+
+.debug_str      0x00000000     0x1faa
+ *(.debug_str)
+ .debug_str     0x00000000      0x587 main.o
+                                0x632 (size before relaxing)
+ .debug_str     0x00000587      0x1b0 C:\MD\md_lib\libdonkey2561_108.a(adc.o)
+                                0x4a0 (size before relaxing)
+ .debug_str     0x00000737       0xb4 C:\MD\md_lib\libdonkey2561_108.a(curves.o)
+                                0x4c7 (size before relaxing)
+ .debug_str     0x000007eb      0x1cf C:\MD\md_lib\libdonkey2561_108.a(graph.o)
+                                0x5f9 (size before relaxing)
+ .debug_str     0x000009ba      0x37c C:\MD\md_lib\libdonkey2561_108.a(lcd.o)
+                                0x85c (size before relaxing)
+ .debug_str     0x00000d36      0x10b C:\MD\md_lib\libdonkey2561_108.a(md.o)
+                                0x776 (size before relaxing)
+ .debug_str     0x00000e41      0x1cb C:\MD\md_lib\libdonkey2561_108.a(md_term.o)
+                                0x749 (size before relaxing)
+ .debug_str     0x0000100c       0xfd C:\MD\md_lib\libdonkey2561_108.a(menu.o)
+                                0x5f6 (size before relaxing)
+ .debug_str     0x00001109      0x280 C:\MD\md_lib\libdonkey2561_108.a(timer.o)
+                                0x6f9 (size before relaxing)
+ .debug_str     0x00001389      0x2b0 C:\MD\md_lib\libdonkey2561_108.a(uart.o)
+                                0x76a (size before relaxing)
+ .debug_str     0x00001639      0x77e C:\MD\md_lib\libdonkey2561_108.a(vchar.o)
+                                0xb30 (size before relaxing)
+ .debug_str     0x00001db7       0xb1 C:\MD\md_lib\libdonkey2561_108.a(calc.o)
+                                0x289 (size before relaxing)
+ .debug_str     0x00001e68       0xed C:\MD\md_lib\libdonkey2561_108.a(kbd.o)
+                                0x387 (size before relaxing)
+ .debug_str     0x00001f55       0x55 C:\MD\md_lib\libdonkey2561_108.a(led.o)
+                                0x38b (size before relaxing)
+
+.debug_loc      0x00000000     0x8435
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x616 main.o
+ .debug_loc     0x00000616      0x413 C:\MD\md_lib\libdonkey2561_108.a(adc.o)
+ .debug_loc     0x00000a29      0x8ae C:\MD\md_lib\libdonkey2561_108.a(curves.o)
+ .debug_loc     0x000012d7      0x83f C:\MD\md_lib\libdonkey2561_108.a(graph.o)
+ .debug_loc     0x00001b16     0x2589 C:\MD\md_lib\libdonkey2561_108.a(lcd.o)
+ .debug_loc     0x0000409f      0x3fc C:\MD\md_lib\libdonkey2561_108.a(md.o)
+ .debug_loc     0x0000449b      0x9e1 C:\MD\md_lib\libdonkey2561_108.a(md_term.o)
+ .debug_loc     0x00004e7c      0xe20 C:\MD\md_lib\libdonkey2561_108.a(menu.o)
+ .debug_loc     0x00005c9c      0x539 C:\MD\md_lib\libdonkey2561_108.a(timer.o)
+ .debug_loc     0x000061d5      0xeef C:\MD\md_lib\libdonkey2561_108.a(uart.o)
+ .debug_loc     0x000070c4      0x6d0 C:\MD\md_lib\libdonkey2561_108.a(vchar.o)
+ .debug_loc     0x00007794      0x421 C:\MD\md_lib\libdonkey2561_108.a(calc.o)
+ .debug_loc     0x00007bb5      0x805 C:\MD\md_lib\libdonkey2561_108.a(kbd.o)
+ .debug_loc     0x000083ba       0x7b C:\MD\md_lib\libdonkey2561_108.a(led.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(md_CurveLine.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x68
+ .debug_ranges  0x00000000       0x18 main.o
+ .debug_ranges  0x00000018       0x18 C:\MD\md_lib\libdonkey2561_108.a(curves.o)
+ .debug_ranges  0x00000030       0x20 C:\MD\md_lib\libdonkey2561_108.a(lcd.o)
+ .debug_ranges  0x00000050       0x18 C:\MD\md_lib\libdonkey2561_108.a(vchar.o)

@@ -1,0 +1,20 @@
+Mega Donkey - Touch Screen LCD Mega 128/2561 based controller - File Folder Info
+
+
+md_bin		Binary utilities including DonkeyProg (Serial Programmer) and DonkeyWiz (Menu Designer).
+
+
+md_demos	demo C projects including project file and source files
+		compiled code and source listings placed in sub-folder nammed "default"  including .HEX file
+		which is binary executable downloadable by DonkeyProg		
+		 
+
+md_doc		documentation (User's Guide)
+
+md_inc		header include files
+
+md_lib		donkey library code
+
+md_projects	donkey user programs (suggested folder)
+
+

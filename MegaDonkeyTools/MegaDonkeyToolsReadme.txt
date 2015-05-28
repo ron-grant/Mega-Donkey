@@ -1,0 +1,1 @@
+Orignal version of AVR Studio and WinAVR used to build MegaDonkey code.There may be issues using later version of WinAVR, e.g. 1/2010 version.

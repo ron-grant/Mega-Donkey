@@ -1,0 +1,6 @@
+The folder, md_projects, is the suggested location for user projects,
+much like md_demos folder is the location for demo projects.
+
+It is recommended to create a new folder for each project you create.
+
+

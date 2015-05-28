@@ -1,0 +1,61 @@
+
+Demo Folder	Description
+
+
+md_Hello	Simple Hello World Application
+
+md_AnalogClock	Analog Clock Face -- Demos Line,Circle Drawing, Fast Sine/Cosine Lookup Tabels
+
+md_DemoLCD	Collection of graphics demos rolled into one program including
+		  Line, Circle and Ellispe Drawing
+		  Blit - Small Area XOR and Screeen Horizontal Scroll 
+		  QWERTY Keyboard
+		  Analog Clock Demo
+		  Large Text Digital Clock
+		  Dithered Drawing
+		  Text Rotation
+		  Convex Area Fill (Paint)
+
+md_RadarScope	Simulated Radar Scope 
+		Similar to analog clock face
+		still under development -- might be nice to tie to sensor on rotating boom
+		with real input, versus simulated
+
+
+md_Oscope	Simple Oscilloscope using ADC inputs (UserADC Scope is faster)
+
+
+md_SonarSweep   Demonstrates sonar support with interface to Deventech SR04 Sonar and also Hobby RC
+                Servo Drive. With a sonar module mounted on a servo, this demo will provide a sweeping
+		motion to the servo and draw a polar plot of the range data.
+
+md_Timer2Sound  Timer2 generates fine frequency control over speaker by taking over its output pin
+		with no distortion from interrupt routines (direct timer to pin)
+
+
+
+md_TimerSound	Timer1 generates fine frequency control over speaker using an interrupt routine.
+		More range than md_Timer2Sound, but suceptable to distortion from competing 
+ 		interrupt routines
+
+md_UserADCScope Takeover ADC sampling with interrupt on ADC sample complete, shutting down
+		normal 5 KHz sample update.
+
+		
+md_VarEditServo1 Variable Editor controls one or two RC Hobby Servos (pins PB6 and PB7) using Timer 1
+md_VarEditServo3 Variable Editor controls one or two RC Hobby Servos (pins PE4 and PE5) using Timer 3
+
+md_VarEditServo13  controls upto 4 hobby servos using timers 1 and 3
+
+
+md_VectorChars  Show use to vector drawn characters
+
+md_WizDemo	Demo Menu created with Donkey Wiz Menu Designer
+		Includings Donkey Wiz file then can be loaded into Donkey Wiz that created the menu.
+
+
+
+
+
+
+

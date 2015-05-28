@@ -1,0 +1,90 @@
+Procedure for Programming Donkey Bootloader
+
+Identify Model
+
+Board should have model number written on it
+Component Side near I2C Connector
+
+MD REV0 Model
+
+
+T1   Touch Screen Mega 128
+T2   Touch Screen Mega 2561
+A1   AGM Mega 128
+B1  Bareback (no LCD) Mega 128
+B2  Bareback (no LCD) Mega 2561
+
+
+Atmel STK-500 programmer was used in this outline 
+
+
+
+ISP SlowDown (Needed on Virgin MCU)
+
+Program Page -- Select Device
+Board Page --  Set ISP Freq 1.21 KHz  and Press [Write]
+Advanced -- Press [Read] should get match,
+            otherwise check selected device and verify that ISP freq was set down to 1.21 KHz
+
+FUSE SET (Needed on Virgin MCU)
+
+Fuses - 
+  UnCheck ATmega103 Compatibility (Mega128)
+  Uncheck JTAG Enabled
+  Check Boot Flash section size = 1024 words (non-cryptographic bootloader)
+  Check Boot Reset Vector
+  Disable Brownout detection
+  UnCheck CKOPT
+  UnCheck OscDiv  (Mega2561)
+  Check final box Ext. Crystal High Freq; 
+
+  Check Auto Verify Fuses (outside list box)
+  Check Smart Warnings (outside list box) 
+  [Program Fuses]
+  If Verification OK, proceed
+
+
+ISP SpeedUp
+
+  Return to Board page 
+  Select ISP Freq 1.845 MHz and [Write]
+
+
+PROGRAMMING BOOTLOADER
+
+  Use [...] button to select Bootloader for your model
+
+
+  Prebuilt boot loaders are found in md_src/Boot Hex  directory
+  If you are modifying boot loader then look in md_src/default
+
+
+  MDBoot128_BOOT_INH.hex      Mega 128   boot loader with inhibit option when jumpering ISP 7,8 on ISP
+  MDBoot2561_BOOT_INH.hex     Mega 2561   "    "   ...
+
+
+
+PROTECT BOOTLOADER
+
+Check Boot Loader Protection Mode 3 on LockBits Page and 
+[Program] the  LockBits fuse.
+
+
+
+
+
+
+
+
+  
+
+   
+   
+
+
+
+
+
+
+
+
